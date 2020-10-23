@@ -6,7 +6,7 @@
 ::4::for
 ::ty::sry
 ::omg::oh my god
-::brb::be right back:
+::brb::be right back
 ::i::I
 ::nvm::nevermind
 ::omw::on my way
